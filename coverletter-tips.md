@@ -4,7 +4,7 @@
 * Not exceeding 1000 words
 * Stating the purpose of letter: scholarship application, your career goal.
 * Statement of why you are best candidate worthy of the scholarship.
-* Personal contact informations like full name, email address, phone number and home address.
+* Personal contact information like full name, email address, phone number and home address.
 
 ## Writing tips
 ### Make it easy to read by following the common standards
