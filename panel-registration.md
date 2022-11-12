@@ -27,4 +27,4 @@ Unlike Physical Panel slot that are always open, Online Panels slot are limited,
 ## Disclaimer
 We don't promise any form of financial reward to attendee. However we do provide certificate of participation and some simple gifts as appreciation.
 
-All the travelling expenses are borne by the attendee.
+All the travel expenses are borne by the attendee.

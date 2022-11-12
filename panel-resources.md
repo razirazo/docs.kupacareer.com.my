@@ -1,7 +1,7 @@
 # Accessing online resources
 
 ## Restricted Contents
-Resources like student document submissions repositories and evaluation forms are password-protected to minimise risk of abuse. Only registered and confirmed panels are allowed to access it with following credentials:
+Resources like student document submissions repositories and evaluation forms are password-protected to minimize risk of abuse. Only registered and confirmed panels are allowed to access it with following credentials:
 
 ```
 Username : user
