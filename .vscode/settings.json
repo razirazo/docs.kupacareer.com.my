@@ -1,5 +1,6 @@
 {
     "cSpell.words": [
         "Docsify"
-    ]
+    ],
+    "docsifyPreview.indexFile": "/index.html"
 }

@@ -29,4 +29,6 @@ So if your name is `Muhammad Firdaus Bin Ihwaan` with assigned number of `S030`,
 Capitalization of .pdf extension doesn't matter. It can be .pdf or .PDF.
 
 ## Document size
-**Maximum allowed upload size is 1MB.** However, a properly written document would typically produce a size less then 200KB each.
+**Maximum allowed upload size is 1MB.** However, a properly written document would typically produce a size less then 200KB each. ddd
+
+![logo](/_media/favicon.png)
