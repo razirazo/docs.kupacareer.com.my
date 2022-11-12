@@ -1,3 +1,6 @@
 {
-    "git.suggestSmartCommit": true
+    "git.suggestSmartCommit": true,
+    "cSpell.words": [
+        "Docsify"
+    ]
 }
