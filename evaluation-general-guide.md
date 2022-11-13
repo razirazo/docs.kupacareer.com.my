@@ -22,7 +22,7 @@ In a modern world where documents are read and sorted by computer and AI, proper
 >> * **`1`** Font: Arial or Times New Roman
 >> * **`1`** Font Size: 12 (just estimate, if it doesn't look wrong that its all good)
 >> * **`0.5`** Structure
->> * **`-1`** More than # colour
+>> * **`-1`** More than 3 accent colors
 >> * **`-1`** Wrong filename template
 >> * **`-10`** Scanned document
 > 
