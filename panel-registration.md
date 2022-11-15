@@ -15,7 +15,7 @@ Please include:
 
 While registration will stay open till 27th November, we urge everyone to register at earliest opportunity because panel briefings (TOT) will be held on [21st and 27th November](/important-dates).
 
-?> We will attempt to contact you by phone within three days of submission to confirm your attendance.
+?> We will attempt to contact you by phone few days before event launching to confirm your attendance.
 
 ?> To request cancellation or change in registration details, please do not hesitate to contact us at committee@kupacareer.com.my.
 

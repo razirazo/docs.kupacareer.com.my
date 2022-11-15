@@ -57,7 +57,7 @@ This part is focusing on human readability.
 * **`1`** Personality
 * **`1`** Summarised skill 
 * **`1`** Summarised experiences
-* **`1`** Objective of resume 
+* **`1`** Objective of resume
 
 ### Academic
 * **`1`** UPSR Result
