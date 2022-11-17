@@ -4,7 +4,8 @@ This documentation is written by volunteers and regular people just like you. Th
 
 ## Mobile users
 In mobile view, handbook index is hidden by default. You can access the index by clicking the menu icon at the bottom left of this page.
-![logo](https://pub-5dfca357066144e89ed07969d7b5cae4.r2.dev/docs/mobile-index.webp)
+
+![logo](https://pub-5dfca357066144e89ed07969d7b5cae4.r2.dev/docs/mobile-index-450.webp)
 
 
 ## Contributing to this project 
