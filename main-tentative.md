@@ -31,7 +31,7 @@
 
 **11.00 am:** Mock Interview Start (B Session)  
 
-?> please refer to [Grouping Schedule](https://docs.google.com/spreadsheets/d/e/2PACX-1vR_xPWuu3Q_6eydFzt4ZYF5xyQo8dWMhKeEsOJCrktYdopU7mLSnYoOwNNJtgr7FvGuFrbgXXcE0Ez6/pubhtml?gid=767444704&single=true) for interview group assignment.
+?> Please refer to [Grouping Schedule](https://docs.google.com/spreadsheets/d/e/2PACX-1vR_xPWuu3Q_6eydFzt4ZYF5xyQo8dWMhKeEsOJCrktYdopU7mLSnYoOwNNJtgr7FvGuFrbgXXcE0Ez6/pubhtml?gid=767444704&single=true) for interview group assignment.
 
 **1.30 pm:** Break
 
