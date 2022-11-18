@@ -1,7 +1,7 @@
 - Main
 
   - [Home](/)
-  - [Tentative](tentative-2022.md)
+  - [Tentative](tentative.md)
   - [Revision History](revision.md)
   
 - Candidates: Event Preparations
