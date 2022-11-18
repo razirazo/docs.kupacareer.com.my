@@ -14,13 +14,15 @@
   - [Resume Writing Tips](resume-tips.md)
   - [Cover Letter Writing Tips](coverletter-tips.md)
   
-- Panels: Attending the event
+- Attending the event
   - [Registration](panel-registration.md)
   - [Accommodation](panel-accomodation.md)
   - [Important Dates](panel-important-dates.md)
+  - [Accessing Interview Resources](panel-resources.md) 
+
+- Event Flow   
   - [Physical Interview Workflow](panel-physical.md)
   - [Online Interview Workflow](panel-online.md)
-  - [Accessing Interview Resources](panel-resources.md)    
 
 - Panel: Candidate Evaluation Guidelines
   - [General Guides](evaluation-general-guide.md)
