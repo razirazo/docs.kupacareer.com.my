@@ -1,33 +1,33 @@
 - Main
 
   - [Home](/)
-  - [Tentative](tentative.md)
+  - [Tentative](main-tentative.md)
   - [Revision History](revision.md)
   
 - Candidates: Event Preparations
 
-  - [Important Dates](student-important-dates.md)
+  - [Important Dates](candidate-important-dates.md)
   
 - Candidates: Document Preparation
 
-  - [General Document Specifications](spesifikasi-dokumen.md)
-  - [Resume Writing Tips](resume-tips.md)
-  - [Cover Letter Writing Tips](coverletter-tips.md)
+  - [General Document Specifications](candidate-docs-spec.md)
+  - [Resume Writing Tips](candidate-resume-tips.md)
+  - [Cover Letter Writing Tips](candidate-coverletter-tips.md)
   
 - Attending the event
-  - [Registration](panel-registration.md)
-  - [Accommodation](panel-accomodation.md)
-  - [Important Dates](panel-important-dates.md)
-  - [Accessing Interview Resources](panel-resources.md) 
+  - [Registration](attend-registration.md)
+  - [Accommodation](attend-accomodation.md)
+  - [Important Dates](attend-panel-important-dates.md)
+  - [Accessing Interview Resources](attend-panel-resources.md) 
 
 - Event Flow   
-  - [Physical Interview Workflow](panel-physical.md)
-  - [Online Interview Workflow](panel-online.md)
+  - [Physical Interview Workflow](flow-panel-physical.md)
+  - [Online Interview Workflow](flow-panel-online.md)
 
 - Panel: Candidate Evaluation Guidelines
   - [General Guides](evaluation-general-guide.md)
-  - [Resume & Cover Letter Evaluations](penilaian-dokumen.md)
-  - [Interview Evaluations](penilaian-interview.md)
+  - [Resume & Cover Letter Evaluations](evaluation-documents.md)
+  - [Interview Evaluations](evaluation-interview.md)
   
 - Technical Guides
 
