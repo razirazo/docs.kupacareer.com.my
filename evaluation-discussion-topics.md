@@ -15,7 +15,7 @@ Gamification in education is a strategy used to increase the engagement in class
 **Q: What is the impact of gamification on students’ learning, engagement, and behaviour**
 
 ## G03 - Life Skills Education (LSE) 
-``` Life and Ethics  ```
+``` Life and Ethics ```
 
 LSE is a comprehensive evidence-based plan focusing on the development of the skills that individuals need for a healthy life such as controlling emotions, having effective relationships and life management. LSE in Malaysia is still at the beginning of its way and there are many potentials for life-skill based program to be implemented among Malaysian children and adolescents.
 
@@ -50,7 +50,7 @@ Social media influencers are users on social media platforms with great credibil
 **Q: Is Social Media Influencer a real career?**
 
 ## G08 - Participation of youth in Politics
-``` Politics```
+``` Politics ```
 
 The number of young people in Malaysia is growing with at least 45% of the population, or 14.6 million people, between the ages of 15 to 39 years old. This presents an opportunity for a new and fresh youth-led political movement to start leading platforms that will attract young people and give them space to express themselves.
 
@@ -149,12 +149,13 @@ Racial discrimination often surfaces in perception and commentary of Malaysia’
 
 ## G22 - Flash flood: Government vs The Rakyat
 ``` Policy and Laws ```
+
 According to Malaysian Meteorological Department (MetMalaysia), heavy rain and thunderstorm could be expected from October until the following month as the country moves through the monsoon transition period. With an average daily rain of 50 mm - 850 mm rainwater per rain session, there may be forecasted flash floods and landslides in certain areas in the country. However, with current climate change, it is difficult to have a precise and detailed location of the floods.
 
 **Q: Share your opinion on how the government could combat this issue. How should the public prepare for this deadly flash flood and landslides?  Are we ready for the wave?**
 
 ## G23 - Undi18 – A Gamechanger: Myth or Reality? 
-``` Politics```
+``` Politics ```
 
 In July 2019, Malaysia parliament has approved a bill reducing the voting age for general elections from 21 to 18 years old. The amendments also introduce Automatic Voter Registration (AVR), with eligible citizens to cast their votes as soon as they turn 18. In 2019, Election Commission (EC) projected 7.8 million new voters, 50% increase from the current number of voters by 2023, if the AVR system comes into place.
 
@@ -162,7 +163,7 @@ In July 2019, Malaysia parliament has approved a bill reducing the voting age fo
 
 
 ## G24 - Should politicians be legally accountable for promises made during the election campaigns?
-``` Politics```
+``` Politics ```
 
 An electoral manifesto is described as a declaration that is announced by political parties, individuals or groups of people showing their intention, purpose, and point of view in certain matters. It is considered as a reference document for the public at large and as to what a political party is.
 
