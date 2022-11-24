@@ -16,7 +16,7 @@
   
 - Attending the event
   - [Registration](attend-registration.md)
-  - [Accommodation](attend-accomodation.md)
+  - [Accommodation](attend-panel-accomodation.md)
   - [Important Dates](attend-panel-important-dates.md)
   - [Accessing Interview Resources](attend-panel-resources.md) 
 
