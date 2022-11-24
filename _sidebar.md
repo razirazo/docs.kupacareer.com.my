@@ -24,8 +24,9 @@
   - [Physical Interview Workflow](flow-panel-physical.md)
   - [Online Interview Workflow](flow-panel-online.md)
 
-- Panel: Candidate Evaluation Guidelines
+- Panel: Candidate Guidelines
   - [General Guides](evaluation-general-guide.md)
+  - [Group Discussion Topics](evaluation-discussion-topics.md)
   - [Resume & Cover Letter Evaluations](evaluation-documents.md)
   - [Interview Evaluations](evaluation-interview.md)
   
