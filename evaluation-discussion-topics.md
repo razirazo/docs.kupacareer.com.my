@@ -33,7 +33,12 @@ Prescription medicines and advances in medical treatment have helped people avoi
 
 **Q: Discuss the pros and cons of alternative medicine vs modern medicine**
 
-## G06
+## G06 - The relation between Malaysia life expectancy and current lifestyle
+``` Health ```
+
+Before the pandemic, the major focus is on improving the health of millions of people through increasing the life expectancy and reduce common killers associated with child and maternal mortality. The life expectancy for Malaysians is currently around 76 years.
+
+**Q: Do you think Malaysian practise a healthy life and is it possible to increase the life expectancy? How?**
 
 ## G07 - Is Social Media Influencer a real career?
 ```Technology ```
@@ -169,12 +174,12 @@ Social media is a two-edged sword. Even though it offers people a way to connect
 
 **Q: In your opinion, does social media bring more good than harm? Has social media improved people’s relationships?**
 
-## G26 - The relation between Malaysia life expectancy and current lifestyle
+## G26 - Do video games contribute to violence among children and teenager?
 ``` Health ```
 
-Before the pandemic, the major focus is on improving the health of millions of people through increasing the life expectancy and reduce common killers associated with child and maternal mortality. The life expectancy for Malaysians is currently around 76 years.
+As the industry rapidly expands with new gaming systems and updated technology, there has been stiff competition to create the most realistic and interactive games. From war games to car thefts, many of these games include graphic acts of violence.
 
-**Q: Do you think Malaysian practise a healthy life and is it possible to increase the life expectancy? How?**
+**QQ: Do video games contribute to violence among children and teenager? What are the other health effects related to gaming**
 
 ## G27 - The effect of poverty on health, children & society
 ``` Health ```
