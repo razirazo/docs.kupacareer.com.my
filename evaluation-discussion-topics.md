@@ -1,6 +1,6 @@
 # Group Discussion Topics (2022)
 
-## G01 - Street Smarts vs Book Smarts 
+## G01 - Street Smarts vs Book Smarts :id=G01
 ``` School and Education ```
 
 Book smarts being described as factual and intellectual knowledge coming from formal education. Street smarts being described as knowledge from life experience and risk taking.
