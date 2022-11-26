@@ -205,7 +205,7 @@ Educational development and reform in Malaysia have always been characterized by
 
 **Q: Discuss the educational development, focussing on curriculum changes and issues affecting the change in Malaysia and perspectives for the future.**
 
-## G30 - Sexual Education should be made mandatory to learn in school
+## G30 - Sexual Education should be made mandatory to learn in school :id=G30
 ``` School and Education ```
 
 Sexual education has garnered a lot of attention and opposing standpoints. While people may say that sex education should begin from home, schools are a precious source of information for kids. Many people, however, think that it shouldn’t be compulsory.
