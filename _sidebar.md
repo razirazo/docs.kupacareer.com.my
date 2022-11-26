@@ -26,10 +26,10 @@
 
 - Panel: Candidate Guidelines
   - [General Guides](evaluation-general-guide.md)
-  - [Group Discussion Topics](evaluation-discussion-topics.md)
   - [Resume & Cover Letter Evaluations](evaluation-documents.md)
   - [Interview Evaluations](evaluation-interview.md)
-  
+  - [Group Discussion Topics](evaluation-discussion-topics.md)
+
 - Technical Guides
 
   - [Online Interview: Google Meet](ss.md)
