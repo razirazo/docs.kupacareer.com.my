@@ -182,7 +182,7 @@ Social media is a two-edged sword. Even though it offers people a way to connect
 
 As the industry rapidly expands with new gaming systems and updated technology, there has been stiff competition to create the most realistic and interactive games. From war games to car thefts, many of these games include graphic acts of violence.
 
-**QQ: Do video games contribute to violence among children and teenager? What are the other health effects related to gaming**
+**Q: Do video games contribute to violence among children and teenager? What are the other health effects related to gaming**
 
 ## G27 - The effect of poverty on health, children & society :id=G27
 ``` Health ```
