@@ -28,12 +28,12 @@ Climate change is a universal problem. Environmentalists often say that we need 
 
 **Q: Discuss on the alternatives of clean and affordable energy to replace fossil fuels. Do you think the alternatives can be implemented as the main energy source in Malaysia?**
 
-## G05 - Alternative Medicine vs Modern Medicine :id=G05
-``` Health ```
+## G05 - The application of IR 4.0 in local community service :id=G05
+``` Industrial 4.0 ```
 
-Prescription medicines and advances in medical treatment have helped people avoid disability and death caused by disease, lowered overall treatment costs, and has lowered death rates for heart disease, stroke, cancer, and other deadly diseases for several decades.
+The government launched the National IR 4.0 Policy on July 1, 2021, with the aim of ensuring the country is able to ride the wave of IR 4.0. The policy steers strategic socio-economic transformation through the ethical use of IR 4.0 technologies towards a balanced, responsible, and sustainable growth.
 
-**Q: Discuss the pros and cons of alternative medicine vs modern medicine**
+**Q: Discuss the capability of Industry 4.0 in providing better digital solutions in our daily live**
 
 ## G06 - The relation between Malaysia life expectancy and current lifestyle :id=G06
 ``` Health ```
@@ -98,12 +98,12 @@ Building a multi-ethnic nation is a huge challenge. Pursuing and maintaining uni
 
 **Q: What is your opinion on Malaysia unity? Does social media and political narrative reflect the real perception of Malaysia as a whole?**
 
-## G15 - The application of IR 4.0 in local community service :id=G15
-``` Industrial 4.0```
+## G15 - Alternative Medicine vs Modern Medicine :id=G15
+``` Health ```
 
-The government launched the National IR 4.0 Policy on July 1, 2021, with the aim of ensuring the country is able to ride the wave of IR 4.0. The policy steers strategic socio-economic transformation through the ethical use of IR 4.0 technologies towards a balanced, responsible, and sustainable growth.
+Prescription medicines and advances in medical treatment have helped people avoid disability and death caused by disease, lowered overall treatment costs, and has lowered death rates for heart disease, stroke, cancer, and other deadly diseases for several decades.
 
-**Q: Discuss the capability of Industry 4.0 in providing better digital solutions in our daily live**
+**Q: Discuss the pros and cons of alternative medicine vs modern medicine**
 
 ## G16 - Malaysia ASEAN Corporation :id=G16
 ``` Foreign Policy ```
