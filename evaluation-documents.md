@@ -101,7 +101,7 @@ For this section, candidates are allocated **4** initial points.
 * **`+1`** Font: Arial or Times New Roman
 * **`+1`** Font Size: 12 (just estimate, if it doesn't look wrong that its all good)
 * **`+1`** Paper size A4, not Letter size.
-* **`+0.5`** Structure
+* **`+0.5`** Structure: Proper proportion of each formatting element
 * **`-1`** More than 2 colour (including black writing)
 * **`-2`** Wrong filename template
 * **`-4`** Landscape Orientation
