@@ -12,23 +12,30 @@
 ## 1a. Resume Formatting
 
 ### I. Technical Format 
-In a modern world where documents are read and sorted by AI and sometimes involving OCR (Optical Character Recognition), machine readability important. In this section, we will observe if the resume is automation friendly.
-* **`+1`** Font: Arial or Times New Roman
-* **`+1`** Font Size: 12
-* **`+1`** Paper size A4, not Letter size.
-* **`+0.5`** Structure
-* **`-1`** More than # colour
+In a modern world where documents are read and sorted by AI and sometimes involving OCR (Optical Character Recognition), machine readability important. In this section, we will observe if the resume is automation friendly. For this section, candidates are allocated **4** initial points.
+* **`+4`** **Initial points**
+* **`1`** Font: Arial or Times New Roman
+* **`1`** Font Size: 12
+* **`1`** Paper size A4, not Letter size.
+* **`0.5`** Structure - clear separation of section, which come first.
+* **`-1`** More than 3 colour, not including shades.
+* **`-1`** Multiple pages, superfluous blank page.
+* **`-2`** Multiple pages, with content.
 * **`-2`** Wrong filename template
-* **`-99`** Screenshot or scanned handwritten letter (trust me it happened before)
+* **`-4`** Landscape Orientation
+* **`-2`** Document not saved properly as PDF. Digital screenshot or image inside pdf.
+* **`-99`** Scanned handwritten letter (trust me it happened before)
 
 ?> Just estimate visually for font size.
 
-### II. Readability and space utilisation.
-This part is focusing on human readability.
+### II. Readability and space utilization.
+* **`1`** Paper size A4, not Letter size.
 * **`1`** Margin: 1 or 1.5 inch. (Visual estimate)
 * **`1`** Proper spacing
+* **`1`** Simple, conservative design. Not too fancy hindering readability.
 * **`-1`** content less than 75% of paper
 * **`-1`** Too many content/ too crowded for comfort
+* **`-1`** Not Justified
 
 
 ### III. Personal Information
@@ -60,6 +67,7 @@ This part is focusing on human readability.
 * **`1`** Objective of resume
 
 ### Academic
+* **`1`** Simply for having any academic info
 * **`1`** UPSR Result
 * **`1`** IGCSE result
 * **`0.5`** CGPA 
@@ -88,12 +96,16 @@ This part is focusing on human readability.
 ## 2a. Letter Formatting
 
 ### I. Technical format
+For this section, candidates are allocated **4** initial points.
+* **`+4`** **Initial points**
 * **`+1`** Font: Arial or Times New Roman
 * **`+1`** Font Size: 12 (just estimate, if it doesn't look wrong that its all good)
 * **`+1`** Paper size A4, not Letter size.
 * **`+0.5`** Structure
-* **`-1`** More than # colour
+* **`-1`** More than 2 colour (including black writing)
 * **`-2`** Wrong filename template
+* **`-4`** Landscape Orientation
+* **`-2`** Document not saved properly as PDF. Digital screenshot or image inside pdf.
 * **`-99`** Screenshot or scanned handwritten letter (trust me it happened before)
 
 ### II. Readability & Density
@@ -115,18 +127,20 @@ This part is focusing on human readability.
 * **`1`** Date
 * **`1`** Addressed to specific organisation 
 * **`1`** Grammar (any mistake deduct 1 mark)
-
+* **`1`** Horizontal divider line on header
 
 ## 2b. Writing quality
 
 ### I. Formality 
-* **`1`** Salutation
+* **`1`** Salutation (acceptable formal salutation)
 * **`1`** Sign off (your sincerely)
 * **`1`** Name at bottom: Full cap
+* **`1`** Relevant title, concise and modest.
+* **`-1`**  using informal words.
 
 ### II. Proofreading & Originality 
 Shows that the candidate proofread their letter and check for errors and mistakes before submitting. Also checks if the letter is freshly made with distinguishing content, not a low effort cookie-cutter template letter. For this section, candidates are allocated **4** initial points. Deduct **1** point every time you find a fault listed below.
-* **`4`** **Initial points**
+* **`+4`** **Initial points**
 * **`-1`** Contains typo
 * **`-1`** Contains grammatical error
 * **`-1`** Incoherent sentences (evidence of blatant use of find & replace)
@@ -139,12 +153,8 @@ Shows that the candidate proofread their letter and check for errors and mistake
 * **`1`** Sentiment 
 * **`1`** Assertive statement
 
-### IV. ~~Core values~~ (???? change)
-Show integrity and determination (any good values)
-
-Playing role
-
-What student can give back to society 
+### IV. Overall personal impression
+Your subjective impression of the letter, that is not evaluated by the other criteria given in the form. You are free to further criticize the letter/resume in your remarks below.
 
 
 ## 2c. Remarks
