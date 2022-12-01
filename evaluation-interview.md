@@ -129,7 +129,7 @@
 * **`1`** Interest realistically on par with academic result.
 * **`1`** Able to defend his decision when disputed or questioned by panel
 * **`1`** Realistic career reflects current place and time. (example: GSM Engineer or Novell IPX/SPX Engineer in 2022)
-* **`1`** Personal interest and career match. Also reason why he choose. Self inspired, parent suruh, peer pressure etc,
+* **`1`** Personal interest and career match. Also reason why he choose. Self inspired, parent suruh, peer pressure etc.
 
 ### 1c5. Assertiveness
 
