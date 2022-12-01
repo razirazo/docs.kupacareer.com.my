@@ -135,7 +135,7 @@
 * **`1`** Soft selling skills
 * **`1`** Attempt to prove the panel that he is worthy of scholar
 * **`1`** Able to differentiate himself and stand out from crowds. 
-* **`1`** value added skills, rare skills.
+* **`1`** Able to promote his value added skills, rare skills.
 
 ## 1d. Side Content
 
