@@ -131,6 +131,12 @@
 * **`1`** Realistic career reflects current place and time. (example: GSM Engineer or Novell IPX/SPX Engineer in 2022)
 * **`1`** Personal interest and career match. Also reason why he choose. Self inspired, parent suruh, peer pressure etc.
 
+### 1c5. Assertiveness 
+* **`1`** Soft selling skills
+* **`1`** Attempt to prove the panel that he is worthy of scholar
+* **`1`** Able to differentiate himself and stand out from crowds. 
+* **`1`** value added skills, rare skills.
+
 ## 1d. Side Content
 
 ### 1d1. Extra knowledge in Current and Specific Real World Context.
