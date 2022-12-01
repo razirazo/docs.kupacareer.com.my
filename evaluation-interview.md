@@ -9,7 +9,7 @@
 
 ### 1a1. Physical Appearance
 
-* **`+4`** **Initial points**
+* **`+4`** **Initial Points**
 * **`-1`** Clothes: visible crease, not properly ironed.
 * **`-1`** Improper shirt size. Not oversize/tight
 * **`-1`** Not wear tie
@@ -30,7 +30,7 @@
 
 ### 1a3. Readiness
 
-* **`+4`** **Initial points**
+* **`+4`** **Initial Points**
 * **`-1`** Clueless, not aware of program flow.
 * **`-1`** Still chitchat with peers when interview is about to start
 * **`-1`** Does not have requested documents immediately available
@@ -39,7 +39,7 @@
 
 ### 1a4. Body Posture
 
-* **`+4`** **Initial points**
+* **`+4`** **Initial Points**
 * **`-1`** Laid back, bersandar.
 * **`-1`** Not attentive, annoyingly too relaxed
 * **`-1`** Resting on chin. Menongkat dagu
@@ -50,7 +50,7 @@
 
 ### 1a5. Body languages
 
-* **`+4`** **Initial points**
+* **`+4`** **Initial Points**
 * **`-1`** Fidgeting - twirling tie, tudung, hair, air, whatever
 * **`-1`** Not enthusiastic - feel weak and boring
 * **`-1`** Lethargic
@@ -70,7 +70,7 @@
 
 ### 1b2. Confidence
 
-* **`+4`** **Initial points**
+* **`+4`** **Initial Points**
 * **`-1`** Filler words/sounds: hmm.. uhh.. apanama.. etc
 * **`-1`** Mumbling
 * **`-1`** Shaking voice. Vibrato much?
@@ -78,7 +78,7 @@
 
 ### 1b3. Proper Language
 
-* **`+4`** **Initial points**
+* **`+4`** **Initial Points**
 * **`-1`** Grammatical errors
 * **`-1`** Mixed languages
 * **`-1`** informal conversation
@@ -87,7 +87,7 @@
 
 ### 1b4. Ethics of Conversation
 
-* **`+4`** **Initial points**
+* **`+4`** **Initial Points**
 * **`-3`** Disrupting ongoing conversation
 * **`-1`** Having uncalled strong but patronizing opinion about others valid way of doing things
 * **`-1`** Uncontrolled, emotive assertion.
@@ -96,7 +96,7 @@
 
 ### 1b5. Faithful Conversation
 
-* **`+4`** **Initial points**
+* **`+4`** **Initial Points**
 * **`1`** Sincere conversation
 * **`-1`** Unrealistically made up story or facts
 * **`-1`** Exaggerating statement (if you could tell)
@@ -163,21 +163,21 @@
 
 ### 1d4. Asking good question
 
-* **`+4`** **Initial points**
+* **`+4`** **Initial Points**
 * **`-4`** Not asking question at all
 * **`-1`** Asking question irrelevant to interview
 * **`-1`** Asking question irrelevant to career being discussed
 
-## 1e. Interview Documents (2x multiplier)
+## 1e. Interview Documents
 ?> This section is basically a free, or at least an easy marks. <br> You give second a look, and second-time opinion about candidate's document after you interview them. You might have judged them harshly in docs evaluation before, but now your opinion have changed. And vice versa. Or maybe the interview does not change your view at all. It's your call.
 
-### 1e1. Your opinion about the Cover Letter now.
+### 1e1. Your Opinion About Candidate's Cover Letter Now.
 
-### 1e2. Your opinion about the Resume now.
+### 1e2. Your Opinion About Candidate's Resume Now.
 
-### 1e3. (Extra )Your opinion candidate's supporting documents (physical) or candidate's summary (online).  
+### 1e3. (Extra )Your Opinion on Candidate's supporting documents (physical) or Candidate's Summary (online).  
 
-## 1f. Personal impression (6x multiplier).
+## 1f. Personal Impression
 In ths section, the sole purpose of this single question is to purposely introduce minor opinion bias from panel. After all the rigid, objectively evaluated criteria we have gone through before, this section helps the evaluation to mimics the panel bias situation in real-world interview. You may rate the single candidate conversation performance based on your absolute likeness and personal opinion.
 
 
