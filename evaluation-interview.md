@@ -16,7 +16,7 @@
 * **`-1`** Informal dress or violating dress code.
 * **`-1`** Shoes other than Black shoes, modest heels <2.5inch (female)
 * **`-1`** Unkempt hair
-* **`-1`** Unpleasant body odorwo
+* **`-1`** Unpleasant body odor
 
 ### 1a2. Introduction
 
@@ -33,25 +33,25 @@
 * **`+4`** **Initial Points**
 * **`-1`** Clueless, not aware of program flow.
 * **`-1`** Still chitchat with peers when interview is about to start
-* **`-1`** Does not have requested documents immediately available
+* **`-1`** Could not prepare the requested documents immediately 
 * **`-1`** Oblivious to the progress of conversation
 
 
 ### 1a4. Body Posture
 
 * **`+4`** **Initial Points**
-* **`-1`** Laid back, bersandar.
-* **`-1`** Not attentive, annoyingly too relaxed
+* **`-1`** Laid back
+* **`-1`** Inattentive, too relaxed
 * **`-1`** Resting on chin. Menongkat dagu
 * **`-1`** Leaning too forward
-* **`-1`** Stretching in the middle of active interview
+* **`-1`** Stretching in the middle of interview
 * **`-1`** Yawning
 * **`-1`** Excessive hands movement
 
 ### 1a5. Body languages
 
 * **`+4`** **Initial Points**
-* **`-1`** Fidgeting - twirling tie, tudung, hair, air, whatever
+* **`-1`** Fidgeting - twirling tie, scarf, hair, air, etc
 * **`-1`** Not enthusiastic - feel weak and boring
 * **`-1`** Lethargic
 * **`-1`** Evading eye contact
@@ -66,7 +66,7 @@
 * **`1`** Articulate
 * **`1`** Concise
 * **`1`** Gist of speech delivered
-* **`-1`** Meaningless sentences designed pointlessly fill the convesation. (Your typical grand but zero meaning HR talk)
+* **`-1`** Meaningless sentences designed pointlessly fill the conversation. (Your typical grand but zero meaning HR talk)
 
 ### 1b2. Confidence
 
@@ -81,7 +81,7 @@
 * **`+4`** **Initial Points**
 * **`-1`** Grammatical errors
 * **`-1`** Mixed languages
-* **`-1`** informal conversation
+* **`-1`** Informal conversation
 * **`-1`** Saying "eh/alamak etc" instead sorry or excuse me when making  a statement mistake.
 * **`-10`** Using Profanity
 
@@ -169,7 +169,7 @@
 * **`-1`** Asking question irrelevant to career being discussed
 
 ## 1e. Post Interview Documents Review
-?> This section is basically a free, or at least an easy marks, with some panels's emotional twist. <br> You give a secind look, and second-time opinion about candidate's document after you interview them. You might have judged them harshly in docs evaluation before, but now your opinion might have changed. And vice versa. Or maybe the interview does not change your view at all. It's your call.
+?> This section is basically a bonus marks, with some panels's emotional twist. <br> You give a second look, and second-time opinion about candidate's document after you interview them. You might have judged them harshly in docs evaluation before, but now your opinion might have changed. And vice versa. Or maybe the interview does not change your view at all. It's your call.
 
 ### 1e1. Your Opinion About Candidate's Cover Letter Now.
 
@@ -178,7 +178,7 @@
 ### 1e3. (Extra )Your Opinion on Candidate's supporting documents (physical) or Candidate's Summary (online).  
 
 ## 1f. Personal Impression
-In ths section, the sole purpose of this single question is to purposely introduce minor opinion bias from panel. After all the rigid, objectively evaluated criteria we have gone through before, this section helps the evaluation to mimics the panel bias situation in real-world interview. You may rate the single candidate conversation performance based on your absolute likeness and personal opinion.
+In this section, the sole purpose of this single question is to purposely introduce minor opinion bias from panel. After all the rigid, objectively evaluated criteria we have gone through before, this section helps the evaluation to mimics the panel bias situation in real-world interview. You may rate the single candidate conversation performance based on your absolute likeness and personal opinion.
 
 
 </br>
