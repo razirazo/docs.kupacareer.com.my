@@ -168,8 +168,8 @@
 * **`-1`** Asking question irrelevant to interview
 * **`-1`** Asking question irrelevant to career being discussed
 
-## 1e. Interview Documents
-?> This section is basically a free, or at least an easy marks. <br> You give second a look, and second-time opinion about candidate's document after you interview them. You might have judged them harshly in docs evaluation before, but now your opinion have changed. And vice versa. Or maybe the interview does not change your view at all. It's your call.
+## 1e. Post Interview Documents Review
+?> This section is basically a free, or at least an easy marks, with some panels's emotional twist. <br> You give a secind look, and second-time opinion about candidate's document after you interview them. You might have judged them harshly in docs evaluation before, but now your opinion might have changed. And vice versa. Or maybe the interview does not change your view at all. It's your call.
 
 ### 1e1. Your Opinion About Candidate's Cover Letter Now.
 
